@@ -1,0 +1,2 @@
+# rclassbyjohn
+Introduction to R 
