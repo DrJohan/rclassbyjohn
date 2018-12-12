@@ -5,7 +5,7 @@ opts_chunk$set(comment = "")
 ## ------------------------------------------------------------------------
 #################
 # Title: Demo R Script
-# Author: John Muschelli
+# Author: Johan Bin Ibrahim
 # Purpose: Demonstrate comments in R
 ###################
  
@@ -44,8 +44,9 @@ print(y)
 class(y)
 
 ## ----myName--------------------------------------------------------------
-name = "John Muschelli"
+name = "Johan Ibrahim"
 name
+
 
 ## ----assign3a------------------------------------------------------------
 x <- c(1, 4, 6, 8)
